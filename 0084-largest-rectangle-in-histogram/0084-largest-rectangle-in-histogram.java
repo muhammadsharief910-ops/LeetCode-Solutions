@@ -6,6 +6,7 @@ class Solution {
 
         Stack<Integer> st = new Stack<>();
 
+        //for nsl
         for(int i =0; i<heights.length; i++) {
             while(!st.isEmpty() && heights[st.peek()] >= heights[i]) {
                 
@@ -21,6 +22,8 @@ class Solution {
         st.clear();
         Arrays.fill(nsr , n);
 
+
+        //for nsr
         for(int i =0; i<heights.length; i++) {
             while(!st.isEmpty() && heights[i] < heights[st.peek()] ) {
                 int idx = st.pop();
@@ -30,9 +33,7 @@ class Solution {
             
         }
 
-
         int maxArea = -1;
-
         for(int i =0; i<heights.length; i++) {
             int area = heights[i] * (nsr[i] - nsl[i] -1);
             maxArea = Math.max(maxArea , area);
