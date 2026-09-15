@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
@@ -31,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
