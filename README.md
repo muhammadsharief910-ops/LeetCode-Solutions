@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Binary Search
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
