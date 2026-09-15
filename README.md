@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
