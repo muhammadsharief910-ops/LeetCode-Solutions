@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/muhammadsharief910-ops/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
